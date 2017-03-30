@@ -1,0 +1,57 @@
+.parts-header, .parts-footer {
+	margin-right: 12px;
+	margin-bottom: 8px;
+}
+.parts-header > div {
+	padding-right: 8px;
+}
+.parts-header .panel-body {
+	padding: 6px;
+}
+.parts-footer btn {
+	padding: 6px;
+}
+.xxx {
+	padding-top: 16px;
+	padding-bottom: 16px;
+	background: linear-gradient(to bottom, #40a0ea, #fff);
+}
+.yyy {
+	padding-top: 16px;
+	padding-bottom: 16px;
+	background: linear-gradient(to bottom, #eea53c, #fff);
+}
+.zzz {
+	padding-top: 16px;
+	padding-bottom: 16px;
+	background: linear-gradient(to bottom, #939393, #fff);
+}
+.parts-body {
+	height: 10em;
+}
+.pg-title {
+	padding-left: 0;
+	padding-right: 0;
+}
+.count, .fcount {
+	width: 100%;
+	font-size: 3.6em;
+	text-align: center;
+}
+.difference {
+	display: none;
+	font-size: 1.6em;
+	text-align: right;
+}
+.xxx .difference {
+	background: linear-gradient(to right, #40a0ea, #fff);
+}
+.yyy .difference {
+	background: linear-gradient(to right, #eea53c, #fff);
+}
+.zzz .difference {
+	background: linear-gradient(to right, #939393, #fff);
+}
+.font-red {
+	color: #f00;
+}
